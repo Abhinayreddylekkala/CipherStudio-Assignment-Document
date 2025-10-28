@@ -1,0 +1,17 @@
+.ide-container {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.file-explorer {
+  background-color: #20232a;
+  color: white;
+  padding: 15px;
+}
+
+.editor-preview {
+  background-color: white;
+  padding: 10px;
+}
